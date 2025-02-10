@@ -51,3 +51,4 @@ Repository storing permanent copies of some ITAM academic works (updated 2025-02
   year    = {2006},
 }
 ```
+"-[Diego Rivera (1932-1933)](https://github.com/calexissarabia/paper-mirror/blob/master/descargmural%202.jfif)" 
